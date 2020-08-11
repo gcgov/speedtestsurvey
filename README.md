@@ -31,4 +31,4 @@ A data collection tool built by Garrett County Government for the advancement of
 
 ## Exporting data
 * Script `/app/db/export-data-to-csv.bat` can be used to dump to the data to a spreadsheet format
-* Mongo DB Charts is a powerful tool that can provide heat mappping and analysis ![Mongo charts](/example/mongodb-charts.png)
+* Mongo DB Charts is a powerful tool that can provide heat mappping and analysis ![Mongo charts](/example/mongodb-charts.jpg)
