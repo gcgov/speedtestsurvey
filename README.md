@@ -27,3 +27,8 @@ A data collection tool built by Garrett County Government for the advancement of
 * Edit `/app/geocode.bat`
     * Change the PHP executable path and the file path to match your server.
     * Running this script will update your documents in Mongo DB with a latitude and longitude 
+
+
+## Exporting data
+* Mongo DB Charts is a powerful tool that can provide heat mappping and analysis ![Mongo charts](/example/mongodb-charts.png)
+* Script `/app/db/export-data-to-csv.bat` can be used to dump to the data to a spreadsheet format
